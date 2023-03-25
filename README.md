@@ -1,7 +1,7 @@
 # yoga_pose_classification
-### 107 yoga poses are classified using InceptionV3 model
-###  Link to dataset: https://www.kaggle.com/datasets/shrutisaxena/yoga-pose-image-classification-dataset
+### 5 yoga poses are classified using InceptionResNetV2 model
+###  Link to dataset: https://www.kaggle.com/datasets/niharika41298/yoga-poses-dataset
 
 # Some Outputs
-<img width="664" alt="image" src="https://user-images.githubusercontent.com/100011986/224559132-66fb70f7-22ef-492f-91ed-eb65dbcea3bb.png">
-<img width="562" alt="image" src="https://user-images.githubusercontent.com/100011986/224559173-6f354b78-7979-4531-bc8a-08f2c17b2b4c.png">
+<img width="333" alt="image" src="https://user-images.githubusercontent.com/100011986/227723470-1acc4f79-0b7c-488f-8687-103e18ebd3d6.png">
+<img width="350" alt="image" src="https://user-images.githubusercontent.com/100011986/227723489-6203f177-c530-43df-aeef-71ccecaa4b16.png">
